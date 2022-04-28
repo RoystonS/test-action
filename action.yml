@@ -1,0 +1,5 @@
+name: 'Test Action'
+description: 'Test Action versioning'
+runs:
+  using: 'node16'
+  main: 'dist/index.js'
